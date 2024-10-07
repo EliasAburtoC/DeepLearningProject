@@ -265,7 +265,7 @@ Percentaje of frames per class in the whole dataset.
 
 ---
 
-## Trainning
+## Training
 
 ::: {.panel-tabset}
 
@@ -289,9 +289,9 @@ Sparse Categorical Cross Entropy is appropriate for multi-class classification p
 
 
 
-### Trainning
+### Training
 
-![](Images/Trainning.png)
+![](Images/Training.png)
 
 ::: 
 
