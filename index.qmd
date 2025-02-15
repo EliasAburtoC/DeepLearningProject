@@ -180,7 +180,7 @@ To develop an automatic classification model for monitoring and analyzing animal
 
 ### Tool
 
-- **MARS**: A tool for capturing mouse positions using deep learning (Segalin et al., 2021).).
+- **MARS**: A tool for capturing mouse positions using deep learning (Segalin et al., 2021).
 
 ::: {layout="[40,60]"}
 
@@ -216,7 +216,7 @@ To develop an automatic classification model for monitoring and analyzing animal
 
 ### Sequence
 
-- Each sequence corresponds to a specific experiment involving a resident mouse (0) and an intruder mouse (1)..
+- Each sequence corresponds to a specific experiment involving a resident mouse (0) and an intruder mouse (1).
 
 ![](Images/sequence.png)
 
